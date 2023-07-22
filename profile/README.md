@@ -8,7 +8,7 @@ This github repository provides an operational catch all for information, softwa
 
 ### Asking for help ⛑️
 
-The working group provides community support through a number of channels. The working group provides a slack channel for rapid chat style communication. To gain access to the Slack channel contact Zoe Pierrat. In addition, open discussions which require persistence can be found on the [Discussions tab](https://github.com/orgs/rsfluxlink/discussions) above.
+The working group provides community support through a number of channels. The working group provides a slack channel for rapid chat style communication. To gain access to the Slack channel or get an invite and join the discussion [raise an issue](https://github.com/rsfluxlink/discussions/issues) in the discussion repository (and tag either @zoepierrat or @khufkens). In addition, open discussions which require persistence can be found on the [Discussions tab](https://github.com/orgs/rsfluxlink/discussions) above.
 
 ### Theoretical basis 📚
 
