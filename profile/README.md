@@ -14,7 +14,13 @@ The working group provides community support through a number of channels. The w
 
 > To guide anyone new to the field, or interested in our efforts into past and ongoing disucssions we provide links to a repository containing an academic bibliography of the most interesting works available. Books and or course material will also be linked to separately.
 
-- Bibliography
+- Bibliography - papers worth reading ([submit a new paper]()) [TODO: create zotero group with sub classes - export bibfile to repo on a regular basis]
+   - thermal remote sensing
+   - hyperspectral remote sensing
+   - solar induced fluoresence
+   - LIDAR
+   - data assimilation
+   - misc.
 - Courses
 - Tutorials
 
