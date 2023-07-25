@@ -15,12 +15,11 @@ The working group provides community support through a number of channels. The w
 > To guide anyone new to the field, or interested in our efforts into past and ongoing disucssions we provide links to a repository containing an academic bibliography of the most interesting works available. Books and or course material will also be linked to separately.
 
 - [Bibliography](https://github.com/rsfluxlink/resources/tree/main/bibliography) ([Zotero group](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/library)) - ([submit a new paper](https://github.com/rsfluxlink/resources/issues/1))
-   - thermal remote sensing
-   - hyperspectral remote sensing
-   - solar induced fluoresence
-   - LIDAR
-   - data assimilation
-   - misc.
+   - [thermal remote sensing](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/MVWPUKP2)
+   - [hyperspectral remote sensing](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/N7M6WY4H)
+   - [solar induced fluoresence](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/T3RZ6XAB)
+   - [LIDAR](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/Q34V3ADT)
+   - [data assimilation](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/BF7DXC63)
 - Courses
 - Tutorials
 
