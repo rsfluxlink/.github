@@ -22,6 +22,7 @@ The working group provides community support through a number of channels. The w
    - [data assimilation](https://www.zotero.org/groups/5131038/linking_optical_and_energy_fluxes/collections/BF7DXC63)
 - Courses
 - Tutorials
+   - [Leaf Energy Balance Tutorial](https://padasch.github.io/leaf_energy_balance_tutorial/)
 
 ----
 ## (near-surface) Remote sensing measurements :earth_africa:
