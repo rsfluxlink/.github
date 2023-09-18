@@ -51,4 +51,5 @@ To ensure interoperability common protocols are helpful. However, we are mindful
 
 - [FluxDataKit](https://github.com/geco-bern/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
 - [FluxnetEO](https://github.com/geco-bern/FluxnetEO) - Access and convert FluxnetEO data in R
-
+- [appeears](https://github.com/bluegreen-labs/appeears) - Extract analysis ready NASA AppEEARS data in R
+- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields
